@@ -8,7 +8,7 @@ This Power BI dashboard provides a clear and insightful view of employee presenc
 
 ---
 ## 📸 Dashboard Preview
-![Presence Insights Dashboard](./Presence Insights Dashboard/presence-insight-dashboard.png)
+![Presence Insights Dashboard](./Presence%20Insights%20Dashboard/presence-insight-dashboard.png)
 *Overview of the Presence Insights Dashboard showing key metrics and trends*
 
 ##  Report Contents
