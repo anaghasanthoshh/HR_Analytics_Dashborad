@@ -7,6 +7,9 @@ A collection of Power BI dashboards focused on key HR metrics and insights.
 This Power BI dashboard provides a clear and insightful view of employee presence patterns over time. It is designed for HR teams to monitor in-office presence, remote work trends, and sick leave behavior across the organization.
 
 ---
+## 📸 Dashboard Preview
+![Presence Insights Dashboard](./images/presence-insight-dashboard.png)
+*Overview of the Presence Insights Dashboard showing key metrics and trends*
 
 ##  Report Contents
 
