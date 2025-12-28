@@ -1,7 +1,5 @@
 # HR_Analytics_Dashborad
-A collection of Power BI dashboards focused on key HR metrics and insights.
 
-## 📊 Included Dashboards
 
 ### 1. [Presence Insights Dashboard](https://github.com/anaghasanthoshh/HR_Analytics_Dashborad/tree/f6eee5fa6d411568fee4d3f44e62009b057b260a/Presence%20Insights%20Dashboard)
 This Power BI dashboard provides a clear and insightful view of employee presence patterns over time. It is designed for HR teams to monitor in-office presence, remote work trends, and sick leave behavior across the organization.
